@@ -1,0 +1,6 @@
+@FoodTruckFinderApp_HostAddress = http://localhost:5272
+
+GET {{FoodTruckFinderApp_HostAddress}}/foodTruckFinder/
+Accept: application/json
+
+###
